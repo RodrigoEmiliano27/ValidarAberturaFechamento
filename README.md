@@ -13,11 +13,6 @@ Projeto concluído ✅
  ### Funcionalidades
 
 - ✅ Leitura de txt
-- ✅ Limpeza de caracteres do txt
-- ✅ Classificar cadeia de caracteres
-- ✅ Armazenar dados no txt
+- ✅ Conversão do arquivo xml para JSON
+- ✅ Salvar JSON 
  
-## Autor
-Rodrigo Emiliano 🚀
-👋🏽 Entre em contato!
- rodrigo.emiliano27@hotmail.com
